@@ -7,7 +7,7 @@ const BackBtn = () => {
 
   return (
     <>
-      <button className={classes.back_btn} onClick={() => navigate(-1)}>
+      <button className={classes.back_btn} onClick={() => navigate("/")}>
         Voltar
       </button>
     </>
