@@ -1,4 +1,3 @@
-import React from "react";
 import { FaSpinner } from "react-icons/fa";
 
 import classes from "./Loader.module.css";
